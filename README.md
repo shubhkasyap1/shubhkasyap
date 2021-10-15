@@ -69,7 +69,7 @@
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap&theme=flag-india&layout=compact)
 
 <a>
 
@@ -80,6 +80,9 @@
   
 
 <div align="center">
+  
+## My GitHub Streak
+![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhkasyap&theme=newyork)
 
   
 

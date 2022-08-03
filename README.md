@@ -21,8 +21,9 @@
 
 [<img alt="Instagram" width="35px" height ="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style=" margin: 5px 5px"/>][instagram]
 
-[<img alt="Github" width="35px" height ="35px" src="https://image.flaticon.com/icons/png/512/25/25231.png" style=" margin: 5px 5px"/>][github]
-
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> 
+  </a>
   
   
 

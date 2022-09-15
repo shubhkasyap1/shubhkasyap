@@ -1,4 +1,4 @@
-#  **Hi there, I'm Shubham** 👋
+# Hi, I am Shubham! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
 ##  I'm a Student, Programmer and a Developer !!
 
@@ -11,17 +11,24 @@
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhkasyap&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-###  Connect with me:
+## 👨🏻‍💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/shubhkasyap/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/shubhkasyap)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shubhkasyap?hr_r=1)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shubhkasyap)
+
+## TOOLS:
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
 
 
-  
 
-[<img align="left" alt="LinkedIn" width="30px" height ="35px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG22.png" style=" margin: 5px 5px" />][linkedin]
-
-[<img alt="Instagram" width="35px" height ="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style=" margin: 5px 5px"/>][instagram]
-
-[<img alt="Github" width="35px" height ="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style=" margin: 5px 5px"/>][github]
 
 
 
@@ -70,6 +77,13 @@
 
 <br />
 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubham002001@gmail.com)](mailto:shubham002001@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumar-132940182/)](https://www.linkedin.com/in/shubham-kumar-132940182/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Shubhamkasyyap)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shubhkasap)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/eBGHPuRt)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shubhkasyap/)](https://instagram.com/shubhkasyap)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://shubhkasyap.hashnode.dev/)](https://shubhkasyap.hashnode.dev/) -->
+
   
 
 ###  Github Stats :
@@ -103,7 +117,6 @@
   
 
 <br />
-
   
 
 [instagram]:  https://www.instagram.com/shubhkasyap/

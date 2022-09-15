@@ -81,7 +81,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumar-132940182/)](https://www.linkedin.com/in/shubham-kumar-132940182/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Shubhamkasyyap)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shubhkasap)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/eBGHPuRt)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Rebelshubh#7163)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shubhkasyap/)](https://instagram.com/shubhkasyap)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://shubhkasyap.hashnode.dev/)](https://shubhkasyap.hashnode.dev/) -->
 
   

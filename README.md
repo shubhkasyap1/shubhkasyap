@@ -8,7 +8,7 @@
 
 - 🌱 `Interest :` Data science , Robotics , Coding , Hacking ,Music and Reading Novels
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhkasyap&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhkasyap1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 👨🏻‍💻 Coding Profiles
@@ -77,24 +77,24 @@
 
 <br />
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubham002001@gmail.com)](mailto:shubham002001@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumar-132940182/)](https://www.linkedin.com/in/shubham-kumar-132940182/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Shubhamkasyyap)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shubhkasap)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhkasyap1@gmail.com)](mailto:shubhkasyap1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhkasyap1/)](https://www.linkedin.com/in/shubhkasyap1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shubhkasyap1)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shubhkasap1)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Rebelshubh#7163)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shubhkasyap/)](https://instagram.com/shubhkasyap)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://shubhkasyap.hashnode.dev/)](https://shubhkasyap.hashnode.dev/) -->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/shubhkasyap1/)](https://instagram.com/shubhkasyap1)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://shubhkasyap1.hashnode.dev/)](https://shubhkasyap1.hashnode.dev/) -->
 
   
 
 ###  Github Stats :
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap&show_icons=true&theme=dracula)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap1&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap&theme=flag-india&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap1&theme=flag-india&layout=compact)
 
 <a>
 
-<img align="center"  src="https://visitor-badge.glitch.me/badge?page_id=shubhkasyap.shubhkasyap" />
+<img align="center"  src="https://visitor-badge.glitch.me/badge?page_id=shubhkasyap1.shubhkasyap1" />
 
 </a>
 
@@ -103,7 +103,7 @@
 <div align="center">
   
 ## My GitHub Streak
-![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhkasyap&theme=newyork)
+![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhkasyap1&theme=newyork)
 
   
 
@@ -119,19 +119,19 @@
 <br />
   
 
-[instagram]:  https://www.instagram.com/shubhkasyap/
+[instagram]:  https://www.instagram.com/shubhkasyap1/
 
-[linkedin]:  https://www.linkedin.com/in/shubham-kumar-132940182/
+[linkedin]:  https://www.linkedin.com/in/shubhkasyap1/
 
-[github]:    https://github.com/shubhkasyap
+[github]:    https://github.com/shubhkasyap1
 
 ## Authors
 
-- [shubhkasyap](https://github.com/shubhkasyap)
+- [shubhkasyap](https://github.com/shubhkasyap1)
 
   
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-132940182/)
-[![twitter](https://img.shields.io/twitter/follow/Shubhamkasyyap?style=social)](https://twitter.com/Shubhamkasyyap)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhkasyap1/)
+[![twitter](https://img.shields.io/twitter/follow/shubhkasyap1?style=social)](https://twitter.com/shubhkasyap1)
 
   

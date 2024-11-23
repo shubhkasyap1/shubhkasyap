@@ -8,7 +8,6 @@
 
 - 🌱 `Interest :` Data science , Robotics , Coding , Hacking ,Music and Reading Novels
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhkasyap1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 👨🏻‍💻 Coding Profiles
@@ -127,7 +126,7 @@
 
 ## Authors
 
-- [shubhkasyap](https://github.com/shubhkasyap1)
+- [shubhkasyap1](https://github.com/shubhkasyap1)
 
   
 ## 🔗 Links

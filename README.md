@@ -90,16 +90,6 @@
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap1&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap1&theme=flag-india&layout=compact)
-
-<a>
-
-<img align="center"  src="https://visitor-badge.glitch.me/badge?page_id=shubhkasyap1.shubhkasyap1" />
-
-</a>
-
-  
-
-<div align="center">
   
 ## My GitHub Streak
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhkasyap1&theme=newyork)

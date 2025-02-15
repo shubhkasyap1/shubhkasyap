@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate with other developers and programmers.
 
-- 🥅 `2022 Goals :` Contribute more to Open Source projects
+- 🥅 `2025 Goals :` Contribute more to Open Source projects
 
 - 🌱 `Interest :` Data science , Robotics , Coding , Hacking ,Music and Reading Novels
 
